@@ -1,4 +1,11 @@
 /* Pixel 2 */
+@media only screen and (min-device-width: 320px) and (max-device-height: 870px){
+    .clock{
+        font-size: 30px;
+    }
+}
+
+/* Pixel 2 */
 @media only screen and (min-device-width: 411px) and (max-device-height: 731px){
     .clock{
         font-size: 36px;
